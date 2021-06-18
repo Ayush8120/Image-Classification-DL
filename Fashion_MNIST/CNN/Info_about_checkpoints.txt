@@ -1,0 +1,13 @@
+cp-0015.ckpt 
+Test Accuracy : 91.17%
+Validation Accuracy: 89.4%
+Train Accuracy: 90.71%
+
+
+
+
+#Graphs are presented for this one
+cp-0025.ckpt
+Test Accuracy : 91.1%
+Validation Accuracy: 89.87%
+Train Accuracy:92.02%
