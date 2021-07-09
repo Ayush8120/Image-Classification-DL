@@ -1,4 +1,4 @@
-## VGG19 [{Architecture}]([Understanding the VGG19 Architecture](https://iq.opengenus.org/vgg19-architecture/))
+## VGG19 [{Architecture}](https://iq.opengenus.org/vgg19-architecture/)
 
 ###### 
 
@@ -10,11 +10,11 @@ Only the weights of the last layer were trained and any experimentation with tho
 
 
 
-Details about hyperparameter tuning are given in the [.docx]([Image-Classification-DL/HyperparameterTuning.docx at main · Ayush8120/Image-Classification-DL · GitHub](https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/HyperparameterTuning.docx)) file 
+Details about hyperparameter tuning are given in the [.docx](https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/HyperparameterTuning.docx) file 
 
 <u><mark>Dataset Chosen :</mark></u> Fashion_MNIST
 
-As this dataset is GrayScale and VGG19 only takes RGB format of images as input thus we had to apply an extra step of preprocessing. Details about evry step written in the [.pynb]([Image-Classification-DL/VGG19_Fashion_MNIST.ipynb at main · Ayush8120/Image-Classification-DL · GitHub](https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/VGG19_Fashion_MNIST.ipynb)) file
+As this dataset is GrayScale and VGG19 only takes RGB format of images as input thus we had to apply an extra step of preprocessing. Details about evry step written in the [.pynb](https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/VGG19_Fashion_MNIST.ipynb) file
 
 
 
