@@ -44,6 +44,8 @@ Training Accuracy and Validation Accuracy vs Epoch Count
   <img width="600" height="450" src="https://lh6.googleusercontent.com/IB-sjTHUSV3Qwf9OLdG0j9g7IdlxyxXqLSRKDCPUMwV-HOuWg76z-Z8sp5J7XNGN5D-zbZpMxruMtWuaHEfPNNUvKC0jbIoXU5GyzgX0kATLAhIPsruc1KUfUZjyVfJz9UDsSHlz">
 </p>
 
+Training Loss and Validation Loss vs Epoch Count
+--------
 <p align="center">
   <img width="600" height="450" src="https://lh5.googleusercontent.com/uj4ae0kxg3V1eHQW3KvgDA0Sfa8AZ7EIQa5PP0szc5dQrGe5wUUHo9qBF_shZrg3dTKszFclgUk7mXJ6vGhwAEi6XyuNaJxWMwJqYJrniMPh-fpqrCo2R7HlJiKasnXKS8Eg-JE0">
 </p>
