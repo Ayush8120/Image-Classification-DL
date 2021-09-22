@@ -1,4 +1,4 @@
-### CNN Architecture For Image Classification On Fashion_MNIST dataset
+CNN Architecture For Image Classification On Fashion_MNIST dataset
 -----------
 I tried to implement image classification on Fashion MNIST Dataset using a fixed CNN Architecture. Main aim of the project was to understand how vastly the results vary when hyperparameter tuning is done properly.
 
