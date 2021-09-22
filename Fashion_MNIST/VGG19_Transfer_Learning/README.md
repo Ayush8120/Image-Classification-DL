@@ -6,6 +6,8 @@ Only the weights of the last layer were trained and any experimentation with tho
 
 Details about hyperparameter tuning are given in the [.docx](https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/HyperparameterTuning.docx) file 
 
+*_Code_* : https://github.com/Ayush8120/Image-Classification-DL/blob/main/Fashion_MNIST/VGG19_Transfer_Learning/VGG19_Fashion_MNIST.ipynb
+
 Dataset Chosen : Fashion_MNIST
 ------------
 
